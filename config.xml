@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "learnbyimage2.tabkwok.edu.mit.scratch"
+        id          = "test.tabkwok.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>learnbyimage2</name>
+    <name>test</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="http://scratch.mit.edu/users/tabkwok" email="tabkwok@gmail.com">
+    <author href="http://scratch.mit.edu/users/1091060630" email="tabkwok@gmail.com">
         tabkwok
     </author>
 
